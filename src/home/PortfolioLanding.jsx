@@ -14,15 +14,15 @@ const SlideList = [
     {
         textPosition: 'text-left',
         category: 'Software Development Engineer',
-        title: "Hello, I’m <span>Charlie</span>\nLet's change the world.",
-        description: 'AAA',
-        buttonText: 'Github',
-        buttonLink: 'https://github.com/tywangcharlie/'
+        title: "Hello, I’m <span>Charlie</span> Let's change the world.",
+        description: '',
+        buttonText: 'Know more',
+        buttonLink: '#about'
     }
 ]
 const PortfolioLanding = () => {
     let title = 'About Me',
-        description = 'Results-driven, highly organized, and analytical bilingual Software Development Engineer with experience in design, development, integration, and delivery of web applications and analysis. Able to create effective, custom software solutions that solve challenging problems using a combination of industry-standard and cutting-edge technologies.';
+        description = 'Results-driven, highly organized, and analytical bilingual Software Development Engineer with experience in design, development, integration, and delivery of web applications and analysis.';
     const PostList = BlogContent.slice(0 , 3);
     return (
         <div>

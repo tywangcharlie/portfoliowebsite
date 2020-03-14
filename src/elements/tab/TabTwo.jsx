@@ -7,7 +7,7 @@ class TabsTwo extends Component{
         tab1 = "Education",
         tab2 = "Experience",
         tab3 = "Awards",
-        tab4 = "Education & Certification";
+        tab4 = "Highlights";
         const { tabStyle } = this.props
         return(
             <div>
@@ -29,9 +29,6 @@ class TabsTwo extends Component{
                                            <ul>
                                                <li>
                                                    <a href="/service">University of Illinois at Chicago | Chicago, Illinois<span> - 05/2021</span></a> Masteer of Science in Computer Science
-                                                   <ul>
-                                                       <li>Relevant Coursework: Data Structures, Algorithms, Software Engineering (OOP and agile design, UML modeling), Database Systems, Software Development for Mobile Platforms, Object-Oriented Languages, and Environments</li>
-                                                   </ul>
                                                </li>
                                                <li>
                                                    <a href="/service">National Tsing Hua University | Hsinchu, Taiwan<span> - 08/2018</span></a> Master of Science in Mechanical Engineering | GPA 3.92
@@ -51,6 +48,9 @@ class TabsTwo extends Component{
                                                </li>
                                                <li>
                                                    <a href="/service">Research Intern<span> - Precision Motion Industries, Inc.</span></a> 2015-2015
+                                               </li>
+                                               <li>
+                                                   <a href="/service"><span></span></a> 
                                                </li>
                                            </ul>
                                        </div>
