@@ -1,11 +1,11 @@
 import React from 'react';
-import {FaTwitter ,FaInstagram ,FaFacebookF , FaLinkedinIn} from "react-icons/fa";
+import {FaGithub ,FaInstagram ,FaFacebookF , FaLinkedinIn} from "react-icons/fa";
 
 const SocialShare = [
-    {Social: <FaFacebookF /> , link: 'https://www.facebook.com/'},
-    {Social: <FaLinkedinIn /> , link: 'https://www.linkedin.com/'},
-    {Social: <FaInstagram /> , link: 'https://www.instagram.com/'},
-    {Social: <FaTwitter /> , link: 'https://twitter.com/'},
+    {Social: <FaLinkedinIn /> , link: 'https://www.linkedin.com/in/tywangcharlie/'},
+    {Social: <FaGithub /> , link: 'https://github.com/tywangcharlie/'},
+    {Social: <FaFacebookF /> , link: 'https://www.facebook.com/tywang.charlie/'},
+    {Social: <FaInstagram /> , link: 'https://www.instagram.com/tywang.charlie/'},
 ]
 
 const FooterTwo = () => {
@@ -34,7 +34,7 @@ const FooterTwo = () => {
                     <div className="col-lg-4 col-md-12 col-sm-12 col-12">
                         <div className="inner text-lg-right text-center mt_md--20 mt_sm--20">
                             <div className="text">
-                                <p>Copyright © 2020 Rainbow-Themes. All Rights Reserved.</p>
+                                <p>Portfolio of Charlie Wang</p>
                             </div>
                         </div>
                     </div>

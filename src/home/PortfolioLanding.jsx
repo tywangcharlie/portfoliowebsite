@@ -9,13 +9,14 @@ import PortfolioList from "../elements/portfolio/PortfolioList";
 import ServiceList from "../elements/service/ServiceList";
 import BlogContent from "../elements/blog/BlogContent";
 import Helmet from "../component/common/Helmet";
+import {Link} from "react-scroll"
 
 const SlideList = [
     {
         textPosition: 'text-left',
-        category: 'Software Development Engineer',
-        title: "Hello, I’m <span>Charlie</span> Let's change the world.",
-        description: '',
+        category: 'SOFTWARE DEVELOPMENT ENGINEER',
+        title: "Hi, I’m <span>Charlie Wang.</span><br>I build things for WEB",
+        description: 'Troubleshooting | Computer Programming | Web Development',
         buttonText: 'Know more',
         buttonLink: '#about'
     }
@@ -42,7 +43,7 @@ const PortfolioLanding = () => {
                                             {value.category ? <span>{value.category}</span> : ''}
                                             {value.title ? <h1 className="title" dangerouslySetInnerHTML={{__html: value.title}}></h1> : ''}
                                             {value.description ? <p className="description">{value.description}</p> : ''}
-                                            {value.buttonText ? <div className="slide-btn"><a className="rn-button-style--2 btn-primary-color" href={`${value.buttonLink}`}>{value.buttonText}</a></div> : ''}
+                                            {value.buttonText ? <div className="slide-btn"><Link activeClass = "active" to= "about" spy= { true } smooth= { true } offset= { -30 } duration= { 500 }><a className="rn-button-style--2 btn-primary-color" href={`${value.buttonLink}`}>{value.buttonText}</a></Link></div> : ''}
                                         </div>
                                     </div>
                                 </div>

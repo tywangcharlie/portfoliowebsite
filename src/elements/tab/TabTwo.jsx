@@ -50,7 +50,7 @@ class TabsTwo extends Component{
                                                    <a href="/service">Research Intern<span> - Precision Motion Industries, Inc.</span></a> 2015-2015
                                                </li>
                                                <li>
-                                                   <a href="/service"><span></span></a> 
+                                                   <a href="/service">                <span>           </span></a>       
                                                </li>
                                            </ul>
                                        </div>

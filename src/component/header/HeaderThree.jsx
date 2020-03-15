@@ -83,19 +83,19 @@ class HeaderThree extends Component{
                                     <Link activeClass = "active" to= "home" spy= { true } smooth= { true } offset= { 10 } duration= { 500 }>Home</Link>
                                 </a></li>
                                 <li><a>
-                                    <Link activeClass = "active" to= "about" spy= { true } smooth= { true } offset= { -67 } duration= { 500 }>About</Link>
+                                    <Link activeClass = "active" to= "about" spy= { true } smooth= { true } offset= { -30 } duration= { 500 }>About</Link>
                                 </a></li>
                                 <li><a>
-                                    <Link activeClass = "active" to= "service" spy= { true } smooth= { true } offset= { -67 } duration= { 500 }>Service</Link>
+                                    <Link activeClass = "active" to= "service" spy= { true } smooth= { true } offset= { -30 } duration= { 500 }>Service</Link>
                                 </a></li>
                                 <li><a>
-                                    <Link activeClass = "active" to= "portfolio" spy= { true } smooth= { true } offset= { -67 } duration= { 500 }>Portfolio</Link>
+                                    <Link activeClass = "active" to= "portfolio" spy= { true } smooth= { true } offset= { -30 } duration= { 500 }>Portfolio</Link>
                                 </a></li>
                                 <li><a>
-                                    <Link activeClass = "active" to= "blog" spy= { true } smooth= { true } offset= { -67 } duration= { 500 }>Blog</Link>
+                                    <Link activeClass = "active" to= "blog" spy= { true } smooth= { true } offset= { -30 } duration= { 500 }>Blog</Link>
                                 </a></li>
                                 <li><a>
-                                    <Link activeClass = "active" to= "contact" spy= { true } smooth= { true } offset= { -67 } duration= { 500 }>Contact</Link>
+                                    <Link activeClass = "active" to= "contact" spy= { true } smooth= { true } offset= { -30 } duration= { 500 }>Contact</Link>
                                 </a></li>
                                 
                                 {/*<li><a href="#home">Home</a></li>
