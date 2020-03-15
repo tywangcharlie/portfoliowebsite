@@ -28,7 +28,7 @@ class TabsTwo extends Component{
                                        <div className="single-tab-content">
                                            <ul>
                                                <li>
-                                                   <a href="/service">University of Illinois at Chicago | Chicago, Illinois<span> - 05/2021</span></a> Masteer of Science in Computer Science
+                                                   <a href="/service">University of Illinois at Chicago | Chicago, Illinois<span> - 05/2021</span></a> Master of Science in Computer Science
                                                </li>
                                                <li>
                                                    <a href="/service">National Tsing Hua University | Hsinchu, Taiwan<span> - 08/2018</span></a> Master of Science in Mechanical Engineering | GPA 3.92
@@ -50,7 +50,7 @@ class TabsTwo extends Component{
                                                    <a href="/service">Research Intern<span> - Precision Motion Industries, Inc.</span></a> 2015-2015
                                                </li>
                                                <li>
-                                                   <a href="/service">                <span>           </span></a>       
+                                                   <a href="/service">Volunteer<span> - Counseling Center</span></a> 2012-2018
                                                </li>
                                            </ul>
                                        </div>
