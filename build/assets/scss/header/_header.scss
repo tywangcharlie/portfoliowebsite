@@ -184,6 +184,7 @@
                         > li {
                             > a {
                                 position: relative;
+                                cursor: pointer;
                                 &::after {
                                     position: absolute;
                                     content: "";
