@@ -39,7 +39,7 @@ import Contact from "./elements/Contact";
 import PortfolioDetails from "./elements/PortfolioDetails";
 import Blog from "./elements/Blog";
 import BlogDetails from "./elements/BlogDetails";
-import error404 from "./elements/error404";
+//import error404 from "./elements/error404";
 
 
 // Blocks Layout
