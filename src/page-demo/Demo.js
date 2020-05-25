@@ -738,7 +738,7 @@ class Demo extends Component {
                                             <AccordionItem >
                                                 <AccordionItemHeading>
                                                     <AccordionItemButton>
-                                                        What is tryDo ? How does it work?
+                                                        What is ? How does it work?
                                                     </AccordionItemButton>
                                                 </AccordionItemHeading>
                                                 <AccordionItemPanel>
