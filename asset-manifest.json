@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.1116cb17.chunk.css",
-    "main.js": "./static/js/main.0b79dd7f.chunk.js",
-    "main.js.map": "./static/js/main.0b79dd7f.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
-    "static/css/2.b9a60a9e.chunk.css": "./static/css/2.b9a60a9e.chunk.css",
-    "static/js/2.04a612a9.chunk.js": "./static/js/2.04a612a9.chunk.js",
-    "static/js/2.04a612a9.chunk.js.map": "./static/js/2.04a612a9.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.5514d789b169ec9037ea370132c9861a.js": "./precache-manifest.5514d789b169ec9037ea370132c9861a.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.b9a60a9e.chunk.css.map": "./static/css/2.b9a60a9e.chunk.css.map",
-    "static/css/main.1116cb17.chunk.css.map": "./static/css/main.1116cb17.chunk.css.map",
-    "static/media/index.scss": "./static/media/slick.f97e3bbf.svg"
+    "main.css": "/portfoliowebsite/static/css/main.1116cb17.chunk.css",
+    "main.js": "/portfoliowebsite/static/js/main.5d9a2ef9.chunk.js",
+    "main.js.map": "/portfoliowebsite/static/js/main.5d9a2ef9.chunk.js.map",
+    "runtime~main.js": "/portfoliowebsite/static/js/runtime~main.ca92c413.js",
+    "runtime~main.js.map": "/portfoliowebsite/static/js/runtime~main.ca92c413.js.map",
+    "static/css/2.7c388b1d.chunk.css": "/portfoliowebsite/static/css/2.7c388b1d.chunk.css",
+    "static/js/2.04a612a9.chunk.js": "/portfoliowebsite/static/js/2.04a612a9.chunk.js",
+    "static/js/2.04a612a9.chunk.js.map": "/portfoliowebsite/static/js/2.04a612a9.chunk.js.map",
+    "index.html": "/portfoliowebsite/index.html",
+    "precache-manifest.984cf7152c0eb01076ea4c06f89ad0d8.js": "/portfoliowebsite/precache-manifest.984cf7152c0eb01076ea4c06f89ad0d8.js",
+    "service-worker.js": "/portfoliowebsite/service-worker.js",
+    "static/css/2.7c388b1d.chunk.css.map": "/portfoliowebsite/static/css/2.7c388b1d.chunk.css.map",
+    "static/css/main.1116cb17.chunk.css.map": "/portfoliowebsite/static/css/main.1116cb17.chunk.css.map",
+    "static/media/index.scss": "/portfoliowebsite/static/media/slick.f97e3bbf.svg"
   }
 }
