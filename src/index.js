@@ -110,7 +110,7 @@ class Root extends Component{
 
 
                     
-                    <Route path={`${process.env.PUBLIC_URL}/404`} component={error404}/>
+                    <Route path={`${process.env.PUBLIC_URL}/404`} component={PortfolioLanding}/>
                     <Route component={error404}/>
 
                 </Switch>
