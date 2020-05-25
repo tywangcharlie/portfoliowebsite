@@ -56,14 +56,14 @@ import ContactForm from "./blocks/ContactForm";
 import GoogleMap from "./blocks/GoogleMap";
 import Columns from "./blocks/Columns";
 
-import { HashRouter, Switch, Route  } from 'react-router-dom';
+import { BrowserRouter, Switch, Route  } from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
 
 
 class Root extends Component{
     render(){
         return(
-            <HashRouter basename={`${process.env.PUBLIC_URL}/`}>
+            <BrowserRouter basename={'/'}>
                 <Switch>
                     <Route exact path={`${process.env.PUBLIC_URL}/`} component={Demo}/>
                     <Route exact path={`${process.env.PUBLIC_URL}/main-demo`} component={MainDemo}/>
@@ -114,7 +114,7 @@ class Root extends Component{
                     <Route component={error404}/>
 
                 </Switch>
-            </HashRouter>
+            </BrowserRouter>
         )
     }
 }
